@@ -1,1 +1,1 @@
-("CUSTOM_ROOM_ID":"https://raw.githubusercontent.com/BonRoboket/cow/refs/heads/main/BIGSQUIDGAMEtest4.lua","ZoneInfo":("LCZ":("hasblackout":Y,"hasdecontamination":Y),"HCZ-EZ":("hasblackout":Y)),"Tiles":("LCZ":(),"HCZ-EZ":("9_16":("CUSTOM_EZ_DERTHOffice",1))),"Zones":("LCZ","HCZ-EZ"))
+("CUSTOM_ROOM_ID":"https://raw.githubusercontent.com/BonRoboket/cow/refs/heads/main/CustomItemPole.lua","ZoneInfo":("LCZ":("hasblackout":Y,"hasdecontamination":Y),"HCZ-EZ":("hasblackout":Y)),"Tiles":("LCZ":(),"HCZ-EZ":("9_16":("CUSTOM_EZ_DERTHOffice",1))),"Zones":("LCZ","HCZ-EZ"))
