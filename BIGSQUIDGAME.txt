@@ -1,0 +1,1 @@
+("CUSTOM_ROOM_ID":"https://raw.githubusercontent.com/BonRoboket/cow/refs/heads/main/BIGSQUIDGAMEtest.lua","ZoneInfo":("LCZ":("hasblackout":Y,"hasdecontamination":Y),"HCZ-EZ":("hasblackout":Y)),"Tiles":("LCZ":("5_4":("CUSTOM_EZ_DERTHOffice",1)),"HCZ-EZ":()),"Zones":("LCZ","HCZ-EZ"))
